@@ -3,5 +3,5 @@
 ## URLs:
 * Youtube Reference: https://www.youtube.com/watch?v=QiIlhmeGYuk
 
-* deployed application: -
-* GitHub repository: -
+* deployed application: https://craindavis.github.io/NYT-ArticleSearch/
+* GitHub repository: https://github.com/CrainDavis/NYT-ArticleSearch
