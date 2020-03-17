@@ -1,0 +1,36 @@
+.jumbotron {
+    background-color: #0a0674;
+    color: #e1e0e7;
+    text-align: center;
+}
+.jumbotronText {
+    font-size: 100px;
+    font-weight: bold;
+}
+
+.searchParametersCard, .searchResultsCard {
+    border: 5px solid #0a0674;
+}
+.searchParametersHeader, .searchResultsHeader {
+    background-color: #0a0674;
+    color: #e1e0e7;
+    font-weight: bold;
+}
+.searchParametersBody, .searchResultsBody {
+    background-color: #e1e0e7;
+}
+.searchResultsBody {
+    padding: 10px;
+}
+.searchResults {
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+label {
+    font-weight: bold;
+}
+button {
+    width: 100%;
+    margin-top: 20px;
+}
